@@ -1,0 +1,18 @@
+
+#### `requirements.txt`
+```plaintext
+tensorflow
+tensorflow_hub
+tensorflow_text
+tensorflow_datasets
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+nltk
+einops
+pycocoevalcap
+transformers
+pymoo
+opencv-python
